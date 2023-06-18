@@ -1,0 +1,49 @@
+.rodape {
+    background-color: #F9FAFB;
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+
+.rodape-container {
+    display: block;
+    padding: 3em;
+}
+
+.rodape-container__titulo {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.rodape-container__subtitulo {
+    color: var(--cinzinha);
+    text-align: center;
+    padding: 1em;
+}
+
+.rodape-container__email {
+    padding-left: 10em;
+    display: inline;
+}
+
+.rodape-container__email {
+    display: inline-block;
+}
+
+button {
+    display: inline;
+    width: 20%;
+    height: 20%;
+    margin: 1em;
+    background-color: var(--vermelho);
+    color: white;
+    border: 1px solid #8E2424;
+    box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    border-radius: 8px;
+}
+
+.copy  {
+    color: var(--cinzinha);
+    text-align: center;
+    padding: 1em 0 2em;
+}

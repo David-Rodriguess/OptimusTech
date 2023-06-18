@@ -1,0 +1,52 @@
+.vagas {
+    display: block;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    padding: 96px 0 96px 0;
+}
+
+.info2 {
+    background-color: #8E24240D;
+    color: var(--vermelho);
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.vagas-titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--preto);
+    padding: 1em 0;
+}
+
+.vagas-titulo_subtitulo {
+    color: var(--cinzinha);
+    padding: 0 0 5em;
+}
+
+.ofertas {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ofertas-titulo {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 4em 0 2em;
+    color: var(--preto);
+}
+
+.ofertas-informacoes {
+    color: var(--cinzinha);
+    border: 1px solid #EAECF0;
+    border-radius: 10px;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+.ofertas-subtitulo {
+    display: block;
+    padding-bottom: 2em;
+    color: #101828;
+}

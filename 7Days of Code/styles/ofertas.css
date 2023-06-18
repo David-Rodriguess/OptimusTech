@@ -1,0 +1,15 @@
+.ofertas {
+    display: block;
+}
+
+.ofertas-titulo {
+    display: block;
+    align-items: flex-start;
+}
+
+.ofertas-container {
+    justify-content: center;
+    align-items: center;
+    width: 940px;
+    margin-left: 30em
+}

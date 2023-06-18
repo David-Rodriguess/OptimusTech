@@ -1,0 +1,30 @@
+.metricas {
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    width: auto;
+    margin: 2em 5em 5em;
+}
+
+.metricas-container {
+    height: auto;
+    width: auto;
+    padding: 0 3em 0;
+}
+
+.metricas-titulo {
+    font-size: 60px;
+    color: var(--vermelho);
+    font-weight: 600;
+    padding-bottom: 0.4em;
+}
+
+.metricas-subtitulo {
+    color: var(--preto);
+    margin-bottom: 1em;
+    font-size: 18px;
+}
+
+.metricas-texto {
+    color: var(--cinzinha);
+    font-size: 16px;
+}

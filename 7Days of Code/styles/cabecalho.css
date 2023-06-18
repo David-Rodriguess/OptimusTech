@@ -1,0 +1,25 @@
+.cabecalho {
+    height: auto;   
+    display: block;
+    text-align: center;
+    padding: 96px 0 96px 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.info {
+    color: var(--vermelho);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.cabecalho-titulo {
+    font-size: 48px;
+    font-weight: 600;
+    padding: 1em;
+    
+}
+
+.cabecalho-titulo_subtitulo {
+    font-size: 20px;
+    color: var(--cinzinha);
+}
